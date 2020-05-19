@@ -1,4 +1,4 @@
-<img src="./src/assets/images/logo.png" alt="Adele Angel" style="width:100px;height:100px;" align="right"/>
+<img src="./src/assets/images/logo.png" alt="Adele Angel" width="100" height="100" align="right"/>
 
 # adele-angel.github.io [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4)](https://github.com/prettier/prettier) [![CSS methodology: BEM](https://img.shields.io/badge/CSS_methodology-BEM-brightgreen)](http://getbem.com/introduction/) [![npm version: 6.14.5](https://img.shields.io/badge/npm%20version-6.14.5-blue)](https://www.npmjs.com/) [![node version: 14.2.0](https://img.shields.io/badge/node%20version-14.2.0-blue)](https://nodejs.org/) [![@vue/cli: 4.3.1](https://img.shields.io/badge/@vue/cli-4.3.1-blue)](https://github.com/vuejs/vue-cli)
 
